@@ -10,16 +10,16 @@ class AboutController extends Controller
     {
         $profiles = [
             [
-                'name' => 'AHMAD IMRAN',
-                'nim'  => '2301010002',
-                'bio'  => 'Mengerjakan bagian Home',
-                'img'  => 'images/imran.jpeg'
+                'name' => 'ILHAM SIDDIK',
+                'nim'  => '2301010061',
+                'bio'  => 'Mengerjakan bagian About',
+                'img'  => 'images/ham.jpeg'
             ],
             [
-                'name' => 'ANGGI RAHMAWATI',
-                'nim'  => '2301010001',
-                'bio'  => 'Mengerjakan bagian About',
-                'img'  => 'images/anggi.jpg'
+                'name' => 'SURYA NINGRAT',
+                'nim'  => '2301010028',
+                'bio'  => 'Mengerjakan bagian Home',
+                'img'  => 'images/jo.jpg'
             ],
         ];
 

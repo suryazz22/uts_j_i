@@ -3,7 +3,7 @@
 @section('content')
 
 <h2 class="text-center text-white mb-5">
-    Halaman ini dibuat oleh: 2301010001 - ANGGI RAHMAWATI (GANJIL)
+    Halaman ini dibuat oleh: 2301010061 - ILHAM SIDDIK (GANJIL)
 </h2>
 
 <div class="row justify-content-center g-4">

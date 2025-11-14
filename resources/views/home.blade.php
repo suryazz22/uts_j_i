@@ -5,7 +5,7 @@
 <div class="home-background min-h-screen p-8">
 
     <h2 class="text-center text-white mb-4">
-        Halaman ini dibuat oleh 2301010002 – AHMAD IMRAN
+        Halaman ini dibuat oleh 2301010028 – SURYA NINGRAT
     </h2>
 
     <div class="row g-4">

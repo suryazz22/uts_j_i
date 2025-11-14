@@ -12,13 +12,13 @@
         <!-- Center Title -->
         <div class="text-center text-white fw-semibold"
              style="font-size: 14px;">
-            2301010002 - AHMAD IMRAN (GENAP)
+            2301010028 - SURYA NINGRAT (GENAP)
         </div>
 
         <!-- Right Title -->
         <div class="text-end text-white fw-semibold"
              style="font-size: 14px;">
-            2301010001 - ANGGI RAHMAWATI (GANJIL)
+            2301010061 - ILHAM SIDDIK (GANJIL)
         </div>
 
     </div>
